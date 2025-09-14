@@ -1,19 +1,32 @@
 name: Generate Snake Animation
 
+# Trigger workflow manually or daily at midnight
 on:
-  schedule: 
-    - cron: "0 0 * * *"  # runs daily at midnight
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
+      # Checkout the repo
+      - uses: actions/checkout@v3
+
+      # Set Git identity for commits
+      - name: Set Git identity
+        run: |
+          git config --global user.email "saurabhraj2509@gmail.com"
+          git config --global user.name "Dev-Saurabhraj"
+
+      # Generate the snake SVG
       - uses: Platane/snk@v3
         with:
           github_user_name: Dev-Saurabhraj
           outputs: dist/github-contribution-grid-snake-dark.svg
+
+      # Commit and push to 'output' branch
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
