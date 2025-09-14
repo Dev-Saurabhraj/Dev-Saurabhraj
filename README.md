@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi, I'm Saurabh!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi, I'm Saurabh Rajput!
 
 <div align="center">
   
@@ -21,13 +21,12 @@ const saurabh = {
     funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
-
-- 🔭 Currently working on **AI-powered Flutter applications**
-- 🌱 Learning **Machine Learning, Advanced Backend Development**
-- 👯 Open to collaborate on **Flutter, AI/ML, and Open Source projects**
-- 💬 Ask me about **Flutter, Firebase, Python, AI/ML, C++**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **I can code for hours with just coffee and good music!**
+- 🔭 Currently building **AI-powered Flutter applications**  
+- 🌱 Exploring **Machine Learning** and **Advanced Backend Development**  
+- 👯 Open to collaborating on **Flutter, AI/ML, and Open Source projects**  
+- 💬 Ask me about **Flutter, Firebase, Python, AI/ML, and C++**  
+- 📫 Reach me at: **saurabhraj2509@gmail.com**  
+- ⚡ Fun fact: **I can code for hours fueled by coffee and good music!**
 
 ---
 
@@ -115,11 +114,9 @@ const saurabh = {
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Dev-Saurabhraj/Dev-Saurabhraj/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dev-Saurabhraj/Dev-Saurabhraj/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
 
 ---
 
@@ -143,7 +140,7 @@ graph LR
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-rajput-06b1a32b8/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
