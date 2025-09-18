@@ -120,30 +120,12 @@ const saurabh = {
 
 ---
 
-## 🎯 Current Goals
-
-```mermaid
-graph LR
-    A[🎯 2024 Goals] --> B[Master Flutter Advanced Concepts]
-    A --> C[Build AI-Integrated Apps]
-    A --> D[Contribute to Open Source]
-    A --> E[Learn Cloud Architecture]
-    B --> F[🏆 Success]
-    C --> F
-    D --> F
-    E --> F
-```
-
----
-
 ## 📱 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-rajput-06b1a32b8/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/me._.saurabh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhraj2509@gmail.com)
 
 </div>
