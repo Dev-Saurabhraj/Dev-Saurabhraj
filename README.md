@@ -66,30 +66,6 @@ const saurabh = {
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-Saurabhraj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Saurabhraj&theme=radical&hide_border=true" />
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Saurabhraj&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dev-Saurabhraj&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -112,13 +88,6 @@ const saurabh = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dev-Saurabhraj/Dev-Saurabhraj/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
----
 
 ## 📱 Connect With Me
 
@@ -134,11 +103,6 @@ const saurabh = {
 
 <div align="center">
 
-### 💭 Quote of the Day
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Dev-Saurabhraj&color=brightgreen&style=for-the-badge)
 
 ### ⭐ Thanks for visiting!
 **Happy Coding!** 🚀
