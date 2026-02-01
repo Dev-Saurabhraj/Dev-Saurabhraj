@@ -98,19 +98,3 @@ const saurabh = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhraj2509@gmail.com)
 
 </div>
-
----
-
-<div align="center">
-
-
-### ⭐ Thanks for visiting!
-**Happy Coding!** 🚀
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%"/>
-</div>
